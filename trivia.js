@@ -1,3 +1,4 @@
+// VS Code Comment
 
 function quizApp() {
 
