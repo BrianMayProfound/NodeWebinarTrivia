@@ -1,5 +1,7 @@
 // VS Code Comment
 
+// GitHub Sync is cool
+
 function quizApp() {
 
   pjs.defineDisplay("display", "display.json");
