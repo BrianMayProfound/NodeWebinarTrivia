@@ -1,6 +1,6 @@
 // VS Code Comment
 
-// GitHub Sync is cool
+// GitHub Sync is cool huh
 
 function quizApp() {
 
