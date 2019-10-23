@@ -1,4 +1,4 @@
-
+// test comment
 function quizApp() {
 
   pjs.defineDisplay("display", "display.json");
